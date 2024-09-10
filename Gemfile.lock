@@ -106,6 +106,7 @@ GEM
       aws-eventstream (~> 1, >= 1.0.2)
     base64 (0.2.0)
     bcrypt (3.1.20)
+	supabase (0.1.0)
     bigdecimal (3.1.7)
     bindex (0.8.1)
     bootsnap (1.17.0)
